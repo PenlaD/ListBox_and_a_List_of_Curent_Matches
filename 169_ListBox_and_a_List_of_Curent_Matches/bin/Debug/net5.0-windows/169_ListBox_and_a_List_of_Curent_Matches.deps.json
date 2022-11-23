@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "169_ListBox_and_a_List_of_Curent_Matches/1.0.0": {
+        "runtime": {
+          "169_ListBox_and_a_List_of_Curent_Matches.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "169_ListBox_and_a_List_of_Curent_Matches/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
